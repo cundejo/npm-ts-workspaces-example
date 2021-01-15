@@ -1,0 +1,17 @@
+{
+  "name": "@outlast/ui",
+  "version": "1.0.0",
+  "description": "Awesome UI",
+  "private": true,
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "dependencies": {
+    "@outlast/core": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}

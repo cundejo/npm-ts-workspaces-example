@@ -1,0 +1,14 @@
+{
+  "name": "@outlast/core",
+  "version": "1.0.0",
+  "description": "Awesome Core",
+  "private": true,
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}
