@@ -70,3 +70,5 @@ lib/
 
 .idea
 .next
+
+.vercel
