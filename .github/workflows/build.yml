@@ -23,3 +23,11 @@ jobs:
           npm install
         env:
           CI: true
+
+#      - name: Deploy to Vercel Staging
+#        uses: amondnet/vercel-action@v20
+#        with:
+#          vercel-token: llsV1VdwCErPSfuCD6sAa4Xg
+#          vercel-org-id: 0q88pJH74xGXoZC9yvMzTPgD
+#          vercel-project-id: prj_BOoZq6QatTTgJfbRCsAMZ5KnMdka
+#          working-directory: ./apps/web-client
