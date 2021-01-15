@@ -1,0 +1,8 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib"
+  },
+  "references": [{ "path": "../../packages/core" }, { "path": "../../packages/ui" }]
+}

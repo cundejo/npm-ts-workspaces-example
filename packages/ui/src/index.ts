@@ -1,6 +1,6 @@
 import { helloFunction } from "@outlast/core";
 
-export async function index() {
+export function Button() {
   console.log('calling main');
 
   // dependencies across child packages
