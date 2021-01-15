@@ -1,7 +1,7 @@
-import {Button} from '@outlast/ui'
+import { Button } from "@outlast/ui";
 
 function HomePage() {
-  return <div>Welcome to Next.js! {Button()}</div>
+  return <div>Welcome to Next.js! {Button()}</div>;
 }
 
-export default HomePage
+export default HomePage;
