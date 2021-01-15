@@ -69,3 +69,4 @@ lib/
 *.tsbuildinfo
 
 .idea
+.next
